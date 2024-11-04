@@ -1,3 +1,5 @@
 logs
 opt
 train
+.venv/
+.venv/*
